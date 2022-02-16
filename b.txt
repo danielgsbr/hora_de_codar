@@ -1,1 +1,2 @@
 i am a b file
+New funcion here
