@@ -1,3 +1,5 @@
 Arquivo c
 atualizado
-para mobille <editado em 28/02/2022>
+para mobille
+<editado em 28/02/2022>
+remasterizei o arquivo c do pc do Daniel
